@@ -14,5 +14,5 @@ To run this app in a local environment, in the project directory
 
 # Acknowledgements
 
-I'd like to thank Andrei Neagoie and his fantastic course which thought me everything from the beginning:
+I'd like to thank Andrei Neagoie and his fantastic course which taught me everything from the beginning:
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
