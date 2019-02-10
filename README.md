@@ -11,3 +11,8 @@ To run this app in a local environment, in the project directory
 * first run npm install to install the dependencies
 * then run npm start
 * Open http://localhost:3000 to view it in the browser.
+
+# Acknowledgements
+
+I'd like to thank Andrei Neagoie and his fantastic course which thought me everything from the beginning:
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
