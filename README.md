@@ -2,6 +2,8 @@
 
 A single page application where the user can search for robot friends!
 
+Check it out here: https://badasshenkka.github.io/robofriends/
+
 This project was created with HTML5, CSS3, JavaScript, React, tachyons, robohash API and jsonplaceholder API.
 
 # Instructions
