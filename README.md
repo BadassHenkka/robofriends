@@ -4,15 +4,15 @@ A single page application where the user can search for robot friends by using r
 
 Check it out here: https://badasshenkka.github.io/robofriends/
 
-This project was created with HTML5, CSS3, JavaScript, React and tachyons.
+This project was created with JavaScript, React and tachyons.
 
 # Instructions
 
 To run this app in a local environment, in the project directory
 
-* first run npm install to install the dependencies
-* then run npm start
-* Open http://localhost:3000 to view it in the browser.
+- first run npm install to install the dependencies
+- then run npm start
+- Open http://localhost:3000 to view it in the browser.
 
 # Acknowledgements
 
